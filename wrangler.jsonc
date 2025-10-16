@@ -21,8 +21,8 @@
   },
   "analytics_engine_datasets": [
     {
-      "binding": "ANALYTICS",
-      "dataset": "sink-bfc"
+      "binding": "sink-bfc",
+      "dataset": "ANALYTICS"
     }
   ],
   "kv_namespaces": [
