@@ -22,7 +22,7 @@
   "analytics_engine_datasets": [
     {
       "binding": "ANALYTICS",
-      "dataset": "sink"
+      "dataset": "sink-bfc"
     }
   ],
   "kv_namespaces": [
