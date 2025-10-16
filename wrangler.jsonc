@@ -19,11 +19,9 @@
   "ai": {
     "binding": "AI"
   },
-{
   "analytics_engine_datasets": [
     { "binding": "ANALYTICS", "dataset": "sinkbfc" }
-  ]
-},
+  ],
   "kv_namespaces": [
     {
       "binding": "KV",
